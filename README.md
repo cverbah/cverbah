@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋
+Hi there, my name is Cristian and I am from 🇨🇱.
+## About me
+- Industrial engineer and Master in Management Science (UAI, Chile)
+- Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
+ 🔭 I’m currently working on ... Github
 
 <!--
 **cverbah/cverbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
