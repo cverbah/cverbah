@@ -1,5 +1,5 @@
 # Hello! 👋
-Hi there, my name is Cristian and I am from 🇨🇱.
+Hi there, my name is Cristian and I am from 🇨🇱.&nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)
 &nbsp;
 
