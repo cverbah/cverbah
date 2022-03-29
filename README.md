@@ -6,8 +6,12 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 ## About me
 - Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
+
+
+## Languages
 - 🔭 I’m currently working on ... my Github
 
+## GitHub Stats
 
 
 
