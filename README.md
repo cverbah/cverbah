@@ -3,10 +3,10 @@ Hi there, my name is Cristian and I am from 🇨🇱.
 ## About me
 - Industrial engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
-- 🔭 I’m currently working on ... Github
+- 🔭 I’m currently working on ... my Github
 
 ## Connect
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)
 &nbsp;
 
 
