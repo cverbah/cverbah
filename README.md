@@ -13,6 +13,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 
 ## Languages, Softwares, Libraries
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic)
 ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?logo=jupyter&logoColor=white&style=plastic)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=plastic)
@@ -21,7 +22,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=plastic)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=plastic)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=plastic)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=plastic)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=plastic)
 
 
