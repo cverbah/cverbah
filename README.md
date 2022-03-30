@@ -6,9 +6,6 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 [![Mail](https://img.shields.io/badge/-Mail-005FF9?style=flat-square&logo=mail.ru&logoColor=white)](c_vergara@hotmail.com)
 
 
-
-
-
 ## About me
 - Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
@@ -22,10 +19,10 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=plastic)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=plastic)
 
-- 🔭 I’m currently working on ... my Github
+
 
 ## GitHub Stats
-
+- 🔭 I’m currently working on ... building my portfolio
 
 <!--
 **cverbah/cverbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
