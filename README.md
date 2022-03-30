@@ -8,8 +8,13 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
 
 
-## Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+## Languages, Softwares, Libraries
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
+![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?logo=jupyter&logoColor=white&style=plastic)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=plastic)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=plastic)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=plastic)
 
 - 🔭 I’m currently working on ... my Github
 
