@@ -3,7 +3,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 - If you want to connect with me: <br />
 <br />
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)](https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)
-[![Mail](https://img.shields.io/badge/-Mail-005FF9?style=flat-square&logo=mail.ru&logoColor=white)](c_vergara@hotmail.com)
+
 
 
 
