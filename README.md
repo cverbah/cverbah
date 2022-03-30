@@ -17,6 +17,8 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=plastic)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=plastic)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=plastic)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=plastic)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=plastic)
 
 
