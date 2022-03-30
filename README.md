@@ -1,6 +1,8 @@
 # Hello! 👋
 Hi there, my name is Cristian and I am from 🇨🇱 <br />
-- If you want to connect with me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)
+- If you want to connect with me: <br />
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)](https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)
+
 
 
 ## About me
