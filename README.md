@@ -9,7 +9,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 
 
 ## Languages
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg | width=5px)(https://www.python.org/)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 - 🔭 I’m currently working on ... my Github
 
