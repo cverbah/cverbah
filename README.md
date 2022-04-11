@@ -32,6 +32,9 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 ## Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=cverbah&label=Profile%20Views&color=ce9927&style=flat)</div>
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--
 **cverbah/cverbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
