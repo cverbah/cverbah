@@ -23,6 +23,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=plastic)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=plastic)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=plastic)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=django&logoColor=white&style=plastic)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=plastic)
 
 
