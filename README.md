@@ -9,7 +9,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 ## About me
 - Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
-
+- 🔭 I’m currently working on ... building my portfolio <br />
 
 ## Languages, Softwares, Libraries
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
@@ -27,7 +27,9 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 
 
 ## GitHub Stats
-- 🔭 I’m currently working on ... building my portfolio <br /><br /><br /><br />
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cverbahe&theme=blue-green)
+
+## Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=cverbah&label=Profile%20Views&color=ce9927&style=flat)</div>
 
 <!--
