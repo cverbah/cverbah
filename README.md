@@ -27,7 +27,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 
 
 ## GitHub Stats
-- 🔭 I’m currently working on ... building my portfolio <br />
+- 🔭 I’m currently working on ... building my portfolio <br /><br /><br /><br />
 ![Visitor Count](https://komarev.com/ghpvc/?username=cverbah&label=Views&color=ce9927&style=flat)</div>
 
 <!--
