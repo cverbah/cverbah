@@ -27,7 +27,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 
 
 ## GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cverbahe&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cverbah&theme=blue-green)
 
 ## Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=cverbah&label=Profile%20Views&color=ce9927&style=flat)</div>
