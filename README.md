@@ -28,7 +28,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 
 ## GitHub Stats
 - 🔭 I’m currently working on ... building my portfolio <br />
-<center>![Visitor Count](https://profile-counter.glitch.me/cverbah/count.svg)</center>
+![Visitor Count](https://profile-counter.glitch.me/cverbah/count.svg)
 
 <!--
 **cverbah/cverbah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
