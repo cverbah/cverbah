@@ -9,7 +9,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 ## About me
 - Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
-- 🔭 I’m currently working on ... building my portfolio <br />
+- 🔭 I’m currently working on ... building my portfolio and boosting my programming knowledge <br />
 
 ## Languages, Softwares, Libraries
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
