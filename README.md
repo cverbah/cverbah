@@ -9,8 +9,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 - Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
 - My favorite ML book :book: : Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - Aurélien Géron. I really recommend it! [Link](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
-- 🔭 I’m currently working on ... b̶u̶i̶l̶d̶i̶n̶g̶ m̶y̶ p̶o̶r̶t̶f̶o̶l̶i̶o̶ a̶n̶d̶  boosting my programming skills<br />
-- 🔭 I’m currently working on ... focused on my full time job
+- 🔭 I’m currently working on ... building my portfolio and boosting my programming skills (mostly focused on my full time job rn) <br />
 
 ## Languages, Softwares, Libraries
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
