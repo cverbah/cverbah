@@ -5,12 +5,12 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)](https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)
 [![Mail](https://img.shields.io/badge/-Mail-005FF9?style=flat-square&logo=mail.ru&logoColor=white)](c_vergara@hotmail.com)
 
-
 ## About me
 - Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
 - My favorite ML book :book: : Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - Aurélien Géron. I really recommend it! [Link](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
-- 🔭 I’m currently working on ... building my portfolio and boosting my programming skills <br />
+- 🔭 I’m currently working on ... b̶u̶i̶l̶d̶i̶n̶g̶ m̶y̶ p̶o̶r̶t̶f̶o̶l̶i̶o̶ a̶n̶d̶  boosting my programming skills<br />
+- 🔭 I’m currently working on ... focused on my full time job
 
 ## Languages, Softwares, Libraries
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
