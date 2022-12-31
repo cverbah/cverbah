@@ -12,10 +12,9 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 - 🔭 I’m currently working on ... building my portfolio and boosting my programming skills (mostly focused on my full time job rn) <br />
 - I enjoy doing experiments. Any kind of experiment.
 
-## Languages, Softwares, Libraries
+## Languages, Libraries
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic)
-![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-F37626?logo=jupyter&logoColor=white&style=plastic)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=plastic)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=plastic)
