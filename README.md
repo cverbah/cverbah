@@ -6,7 +6,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 [![Mail](https://img.shields.io/badge/-Mail-005FF9?style=flat-square&logo=mail.ru&logoColor=white)](c_vergara@hotmail.com)
 
 ## About me
-- Full Stack Data Scientist
+- Full Stack Data Scientist, UNSW Alumni
 - Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
 - Experience with: Training Deep Learning models (mostly NLP and CV), Data Analysis, ETL, APIs deployment, End to End ML applications, Web Scrapping, Vector Databases, LLMs, RAGs and GenAI.
