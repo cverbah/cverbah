@@ -9,7 +9,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br />
 - Currently working as Data Scientist
 - Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
-- Experience with: Building Deep Learning models, Data Analysis, APIs deployment, End to End ML applications, Scrapping, Vector Databases.
+- Experience with: Building Deep Learning models (mostly NLP and CV), Data Analysis, APIs deployment, End to End ML applications, Web Scrapping, Vector Databases, LLMs, RAGs and GenAI.
 - My favorite ML book :book: : Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - Aurélien Géron. I really recommend it! [Link](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 - 🔭 I’m currently working on ... building my portfolio and boosting my programming skills (mostly focused on my full time job rn) <br />
 - I enjoy doing experiments. Any kind of experiment.
