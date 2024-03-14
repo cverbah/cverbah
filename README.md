@@ -7,7 +7,7 @@ Open to exciting remote opportunities that align with my skill set and passion f
 [![Mail](https://img.shields.io/badge/-Mail-005FF9?style=flat-square&logo=mail.ru&logoColor=white)](c_vergara@hotmail.com)
 
 ## About me
-- Full Stack Data Scientist, UNSW Alumni
+- Full Stack Data Scientist, UNSW Sydney Alumni
 - Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
 - Experience with: Training Deep Learning models (mostly NLP and CV), Data Analysis, ETL, APIs deployment, End to End ML applications, Web Scrapping, Vector Databases, LLMs, RAGs and GenAI.
