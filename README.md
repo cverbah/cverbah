@@ -29,6 +29,7 @@ Open to exciting remote opportunities that align with my skill set and passion f
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=plastic)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=django&logoColor=white&style=plastic)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=plastic)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
 
