@@ -16,21 +16,22 @@ Open to exciting remote opportunities that align with my skill set and passion f
 - I enjoy doing experiments. Any kind of experiment.
 
 ## Languages, Libraries
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white&style=plastic)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=plastic)
-![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white&style=plastic)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=Tensorflow&logoColor=white&style=plastic)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=plastic)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white&style=plastic)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=plastic)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=plastic)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=plastic)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=django&logoColor=white&style=plastic)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=plastic)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 
 
