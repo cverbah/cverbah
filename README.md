@@ -31,8 +31,6 @@ Open to exciting remote opportunities that align with my skill set and passion f
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=plastic)
 
 
-## GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cverbah&theme=blue-green)
 
 
 ## 😂 Here is a random joke that'll make you laugh!
