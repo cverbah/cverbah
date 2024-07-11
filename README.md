@@ -4,7 +4,7 @@ Hi there, my name is Cristian and I am from 🇨🇱 <br><br>
 Open to exciting remote opportunities that align with my skill set and passion for leveraging technology to drive business success.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)](https://www.linkedin.com/in/cristian-vergara-bahamondes-79a4b827/)
-[![Mail](https://img.shields.io/badge/-Mail-005FF9?style=flat-square&logo=mail.ru&logoColor=white)](c_vergara@hotmail.com)
+<br>
 ## About me
 - Full Stack Data Scientist, UNSW Sydney Alumni
 - Industrial Engineer and Master in Management Science (UAI, Chile)
