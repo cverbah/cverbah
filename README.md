@@ -7,7 +7,6 @@ Open to exciting remote opportunities that align with my skill set and passion f
 <br>
 ## About me
 - Full Stack Data Scientist, UNSW Sydney Alumni
-- Industrial Engineer and Master in Management Science (UAI, Chile)
 - Master of Information Technology, specialisation: Artificial Intelligence, Data Science & Engineering (UNSW, Australia)
 - Experience with: Training Deep Learning models (mostly NLP and CV), Data Analysis, ETL, APIs deployment, End to End ML applications, Web Scrapping, Vector Databases, LLMs, RAGs and GenAI.
 - My favorite ML book :book: : Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems - Aurélien Géron. I really recommend it! [Link](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
