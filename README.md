@@ -35,15 +35,6 @@ Open to exciting remote opportunities that align with my skill set and passion f
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 
-<h2>Lenguajes más utilizados</h2>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=cverbah&layout=donut&langs_count=8&theme=transparent&hide_border=true&size_weight=0.5&count_weight=0.5"
-    alt="Lenguajes más utilizados por Cristian"
-  />
-</p>
-
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
